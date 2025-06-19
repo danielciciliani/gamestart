@@ -1,0 +1,10 @@
+.submitButton {
+    background-color: blueviolet;
+    border-radius: 0.1rem;
+    border: 0px !important;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+    padding: 0.5rem;
+    width: 100%;
+}
